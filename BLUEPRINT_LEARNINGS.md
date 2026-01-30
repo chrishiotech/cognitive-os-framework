@@ -23,11 +23,17 @@ Documento de conocimientos para replicar la arquitectura en el futuro.
 ## Estructura Canónica
 /Volumes/OSCognitive/
 ├── 00_CORE_SYSTEM/ # Verdad absoluta
+
 ├── 01_CAPA_ESTRATEGICA/ # Cerebro evolutivo
+
 ├── 02_VERTICALES_PROPIAS/ # Proyectos propios
+
 ├── 03_TENANTS_CLIENTES/ # Clientes externos
+
 ├── 04_LAB_AI_ENGINEERING/ # Experimentación técnica
+
 ├── 05_NOTEBOOKLM/ # Cerebro redundante
+
 └── 99_ARCHIVE/ # Historial
 
 ## Scripts Esenciales

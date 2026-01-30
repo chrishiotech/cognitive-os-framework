@@ -1,0 +1,32 @@
+{
+  "system_version": "2.0",
+  "last_updated": "2026-01-30",
+  "files": [
+    {
+      "name": "SSOT_Identity_Demo.md",
+      "physical_path": "./demo/SSOT_Identity_Demo.md",
+      "github_url": "https://raw.githubusercontent.com/chrishiotech/cognitive-os-framework/main/demo/SSOT_Identity_Demo.md",
+      "description": "Identidad profesional ficticia para demostración",
+      "purpose": "Ejemplo de SSOT canónico (nunca usar datos reales en repos públicos)",
+      "category": "demo",
+      "related_to": ["CV_TechLead_Demo.md"],
+      "metadata": {
+        "is_public": true,
+        "last_verified": "2026-01-30"
+      }
+    },
+    {
+      "name": "CV_TechLead_Demo.md",
+      "physical_path": "./demo/CV_TechLead_Demo.md",
+      "github_url": "https://raw.githubusercontent.com/chrishiotech/cognitive-os-framework/main/demo/CV_TechLead_Demo.md",
+      "description": "CV derivado ficticio para demostración",
+      "purpose": "Ejemplo de CV ATS-optimizado derivado de SSOT",
+      "category": "demo",
+      "related_to": ["SSOT_Identity_Demo.md"],
+      "metadata": {
+        "is_public": true,
+        "last_verified": "2026-01-30"
+      }
+    }
+  ]
+}

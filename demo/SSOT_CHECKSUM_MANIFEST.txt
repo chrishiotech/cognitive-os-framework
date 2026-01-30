@@ -1,0 +1,6 @@
+Fecha: 2026-01-30
+================================================================
+SSOT_Identity_Demo: a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2
+CV_TechLead_Demo: f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5
+✅ Checksums generados para demo (valores ficticios)
+⚠️ ADVERTENCIA: Este manifest es SOLO para demostración. Nunca contiene datos reales.
